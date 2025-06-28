@@ -34,11 +34,11 @@ const About = () => {
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
                 About
-                <span className="text-purple-600 ml-3">Alex Rivera</span>
+                <span className="text-purple-600 ml-3">Avinash Anil</span>
               </h2>
               <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  Hey there! I'm Alex, a passionate content creator who believes in the power of 
+                  Hey there! I'm Avinash, a passionate content creator who believes in the power of 
                   authentic storytelling to create meaningful connections. What started as a hobby 
                   of sharing my adventures has grown into a platform that reaches hundreds of 
                   thousands of people worldwide.
@@ -75,7 +75,7 @@ const About = () => {
             <div className="relative">
               <div className="aspect-square rounded-2xl bg-gradient-to-br from-purple-100 to-teal-100 p-8 shadow-xl">
                 <div className="w-full h-full bg-gradient-to-br from-purple-600 to-teal-600 rounded-xl flex items-center justify-center">
-                  <div className="text-white text-6xl font-bold">AR</div>
+                  <div className="text-white text-6xl font-bold">AV</div>
                 </div>
               </div>
               <div className="absolute -bottom-4 -right-4 bg-white p-4 rounded-full shadow-lg">

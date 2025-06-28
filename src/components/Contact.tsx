@@ -56,8 +56,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: "Email",
-      value: "alex@creativestudio.com",
-      link: "mailto:alex@creativestudio.com"
+      value: "avnsh@creativestudio.com",
+      link: "mailto:avnsh@creativestudio.com"
     },
     {
       icon: <Phone className="w-6 h-6" />,
