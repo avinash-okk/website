@@ -31,7 +31,7 @@ const Header = () => {
             <h1 className={`text-2xl font-bold transition-colors duration-300 ${
               isScrolled ? 'text-gray-900' : 'text-white'
             }`}>
-              Alex Rivera
+              Avinash Anil
             </h1>
           </div>
           
